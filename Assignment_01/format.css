@@ -1,0 +1,37 @@
+﻿body {
+    font-size:1.1em;
+}
+
+form > div {
+margin-bottom:0.5em;
+}
+
+/*********title and description*************/
+.LabelHeading {
+font-size:2em;
+
+}
+.LabelExplanation {
+font-size:1.1em;
+width:28em;
+margin-bottom:1em;
+}
+
+/************labels & textboxes*************/
+
+.labelWidth {
+display:inline-block;
+width:6.7em;
+}
+
+.EmailUpdate {
+margin-left: 5.3em;
+}
+/*******************part 01********************/
+
+/*******************part 02********************/
+
+/*******************part 03********************/
+
+/*******************part 04********************/
+
